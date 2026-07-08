@@ -11,4 +11,4 @@ This project demonstrates the validation of a control algorithm (LQG) extracted 
 
 ## Results
 The validation shows a perfect match (0 error) between the Simulink solver and the generated C code, confirming the algorithm is production-ready.
-![Validation Plot](docs/sil_validation_plot.png)
+![Validation Plot](/LQG_SIL_Validation/docs/sil_validation_plot.png)
